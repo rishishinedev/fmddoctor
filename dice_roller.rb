@@ -1,5 +1,3 @@
-#!/usr/bin/env ruby
-
 class Die
   def initialize(sides)
     @sides = sides
